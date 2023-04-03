@@ -1,0 +1,4 @@
+lib/**
+.vscode/**
+secrets.py
+settings.toml
