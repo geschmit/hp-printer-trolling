@@ -17,6 +17,7 @@ This requires a Sprig console and a Pico W. You CANNOT use the Pico H originally
 
 ### Future plans
 - [X] Add direct-print attack
+- [ ] Add serial support(use over serial instead of sprig)
 - [ ] Add support for PostScript and images
 - [ ] Attack other common ports(FTP, Telnet, SMTP)
 - [ ] Improve UI library for Sprig
