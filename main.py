@@ -13,7 +13,7 @@ sprig = Sprig()  # terminal uses a 26x8 viewport, giving us 208 characters
 sprig.reset_display()
 
 # Intro
-sprig.set_title("POPBOB PRINTER 0.0.1")
+sprig.set_title("POPBOB PRINTER 0.1.1")
 print("Created by geschmit")
 print("haha printer funny")
 wait(1.5)
@@ -181,7 +181,7 @@ while True:
     elif menu == "ABOUT":
         sprig.reset_display()
         sprig.set_title("ABOUT")
-        print("""POBBOB PRINTER 0.0.1
+        print("""POBBOB PRINTER 0.1.1
 Created by geschmit.
 Licensed under GPL v3.0.
 Use for good, please!
