@@ -1,6 +1,8 @@
 # HP Troller
 Hacking tool to help me juju on HP-based printers.
 
+*This project is in heavy development! Expect updates; the current code state is a hot mess.*
+
 ### About
 This is a little project I made while bored one weekend. It takes advantage of several exploits in HP-based printers to print previously-stored files.
 
